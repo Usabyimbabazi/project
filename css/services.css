@@ -1,0 +1,16 @@
+.our{
+    margin-top: 400px;
+    background-color: black;
+    color: gainsboro;
+    width: 500px;
+    height: 230px;
+    margin-left: -1000px;
+}
+.two{
+
+    display: flex;
+    background-image: url("/images/pexels-leeloo-thefirst-4676640.jpg");
+   background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
