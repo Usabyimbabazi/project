@@ -110,6 +110,10 @@ animation-duration: 1s;
    font-weight: 700;
    
 }
+.button button a{
+    color: black;
+    text-decoration: none;
+}
 span{
     color: rgb(194, 41, 41);
 }
@@ -201,6 +205,10 @@ span{
 
 
 }
+.products-details button a{
+    color: black;
+    text-decoration: none;
+}
 
 .products-details img:hover {
    animation-name: shake;
@@ -239,32 +247,7 @@ span{
     border: 1px;
    font-weight: 700;
 }
-.Us{
-    display: flex;
-    margin-top: 10px;
-    gap: 300px;
-    margin-left: 50px;
-}
-.Us button{
-    padding: 10px 20px;
-    margin-top: 18px;
-    margin-left: 50px;
-    padding: 10px 20px;
-    border-radius: 15px;
-    background-color: rgb(194, 41, 41);
-    font-size: 20px;
-   font-family: 'Times New Roman', Times, serif;
-    border: 1px;
-   font-weight: 700;
-}
-.img img{
-    margin-top: 80px;
-}
-.pa p{
-    margin-top: 40px;
-    
-}
-.h h2{
-margin-top: 200px;
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.view button a{
+    color: black;
+    text-decoration: none;
 }
