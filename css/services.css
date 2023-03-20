@@ -9,7 +9,7 @@
 .two{
 
     display: flex;
-    background-image: url("/images/pexels-leeloo-thefirst-4676640.jpg");
+    background-image: url("./images/pexels-leeloo-thefirst-4676640.jpg");
    background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
