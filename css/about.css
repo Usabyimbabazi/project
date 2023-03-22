@@ -42,18 +42,18 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
     margin-top: 20px;
 }
 .products-details{
-    background-color: rgb(3, 3, 3);
-    color: white;
-    width: 260px;
-    height: 390px;
-    margin-left: 30px;
-    margin-top: 70px;
-    border-radius: 23px;
-    box-shadow: 0px 0px 10px rgba(03, 03, 0, 0.3);
+  background-color: rgb(3, 3, 3);
+  color: white;
+  width: 260px;
+  height: 400px;
+  margin-left: 20px;
+  margin-top: 50px;
+  border-radius: 23px;
+  box-shadow: 0px 0px 10px rgba(03, 03, 0, 0.3);
 
 
 }
-.products-details img{
+/* .products-details img{
     width: 200px;
     height: 180px;
     border-radius: 50%;
@@ -63,8 +63,8 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
     margin-top: 5px;
     animation: fade-in-out 2s linear infinite;
     
-}
-@keyframes fade-in-out {
+} */
+/* @keyframes fade-in-out {
     0% {
       opacity: 0;
     }
@@ -74,10 +74,21 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
     100% {
       opacity: 0;
     }
-  }
+  } */
+.products-details button{
+  padding: 10px 20px;
+  margin-top: 18px;
+  margin-left: 50px;
+  padding: 10px 20px;
+  border-radius: 15px;
+  background-color: rgb(194, 41, 41);
+  font-size: 20px;
+ font-family: 'Times New Roman', Times, serif;
+  border: 1px;
+ font-weight: 700;
+}
 
-
-.products-details img:hover {
+/* .products-details img:hover {
    animation-name: shake;
     animation-duration: 0.5s;
     animation-fill-mode: forwards;
@@ -101,4 +112,4 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
     }
   }
  
-  
+   */
