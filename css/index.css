@@ -7,7 +7,7 @@ body{
     font-family: sans-serif;
 }
 .both{
-    background-image: url("/images/hero-bg.jpg");
+    background-image: url("./images/hero-bg.jpg");
     color: white;
     background-size: cover;
 background-position: center;
